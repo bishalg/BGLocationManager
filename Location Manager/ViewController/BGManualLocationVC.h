@@ -1,13 +1,13 @@
 //
-//  BGViewController.h
+//  BGManualLocationVC.h
 //  Location Manager
 //
-//  Created by Bishal Ghimire on 6/25/14.
+//  Created by Bishal Ghimire on 6/26/14.
 //  Copyright (c) 2014 Big B Soft. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface BGViewController : UIViewController
+@interface BGManualLocationVC : UIViewController
 
 @end
